@@ -1,8 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-
-##### (delete me or comment me out)
+### Day 0: July 18, 2024
 
 **Today's Progress**: Learned Debouncing and throttling, Built a Typeahead Search Component, Revised Asynchoronous Programming concepts like Promises.
 
